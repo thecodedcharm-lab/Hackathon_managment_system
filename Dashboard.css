@@ -40,7 +40,6 @@ ul {
     list-style: none;
     display: flex;
     gap: 15px;
-    flex-wrap: wrap;
     justify-content: center;
 }
 
